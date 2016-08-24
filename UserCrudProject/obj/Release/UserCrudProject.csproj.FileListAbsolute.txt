@@ -1,0 +1,10 @@
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\UserCrudProject\UserCrudProject\bin\Release\UserCrudProject.exe.config
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\UserCrudProject\UserCrudProject\bin\Release\UserCrudProject.exe
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\UserCrudProject\UserCrudProject\bin\Release\UserCrudProject.pdb
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Release\UserCrudProject.csprojResolveAssemblyReference.cache
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Release\UserCrudProject.Information.resources
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Release\UserCrudProject.LoginWin.resources
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Release\UserCrudProject.Properties.Resources.resources
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Release\UserCrudProject.csproj.GenerateResource.Cache
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Release\UserCrudProject.exe
+C:\Users\Stevo\Documents\Visual Studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Release\UserCrudProject.pdb

@@ -1,0 +1,10 @@
+c:\users\stevo\documents\visual studio 2013\Projects\UserCrudProject\UserCrudProject\bin\Debug\UserCrudProject.exe.config
+c:\users\stevo\documents\visual studio 2013\Projects\UserCrudProject\UserCrudProject\bin\Debug\UserCrudProject.exe
+c:\users\stevo\documents\visual studio 2013\Projects\UserCrudProject\UserCrudProject\bin\Debug\UserCrudProject.pdb
+c:\users\stevo\documents\visual studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Debug\UserCrudProject.csprojResolveAssemblyReference.cache
+c:\users\stevo\documents\visual studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Debug\UserCrudProject.Properties.Resources.resources
+c:\users\stevo\documents\visual studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Debug\UserCrudProject.csproj.GenerateResource.Cache
+c:\users\stevo\documents\visual studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Debug\UserCrudProject.exe
+c:\users\stevo\documents\visual studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Debug\UserCrudProject.pdb
+C:\Users\Stevo\documents\visual studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Debug\UserCrudProject.LoginWin.resources
+C:\Users\Stevo\documents\visual studio 2013\Projects\UserCrudProject\UserCrudProject\obj\Debug\UserCrudProject.Information.resources
